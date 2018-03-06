@@ -1,0 +1,30 @@
+{
+	"category": "Suspicious Activity",
+	"indicator": "2820184",
+	"subcategory": "Webshell",
+	"event_activity": null,
+	"pulse_info": {
+		"count": 0,
+		"references": [
+		],
+		"pulses": [
+		]
+	},
+	"base_indicator": {
+		"indicator": "2820184",
+		"description": "This Network IDS rule is included in the AlienVault Labs Threat Intelligence Subscription. This rule is used in correlation.",
+		"title": "Suspicious Activity: Webshell",
+		"access_reason": "redacted",
+		"access_type": "redacted",
+		"content": null,
+		"type": "NIDS",
+		"id": 1886778
+	},
+	"cve": null,
+	"sections": [
+		"general",
+		"ip_list"
+	],
+	"malware_name": null,
+	"name": "IndoXploit Shell Uploader Inbound"
+}

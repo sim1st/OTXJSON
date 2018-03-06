@@ -1,0 +1,18 @@
+{
+	"flag_url": "/static/img/flags/us.png",
+	"city_data": true,
+	"city": "Cheyenne",
+	"region": "WY",
+	"charset": 0,
+	"area_code": 307,
+	"continent_code": "NA",
+	"country_code3": "USA",
+	"latitude": 41.10340118408203,
+	"postal_code": "82001",
+	"longitude": -104.90589904785156,
+	"country_code": "US",
+	"country_name": "United States",
+	"asn": "AS53667 FranTech Solutions",
+	"dma_code": 759,
+	"flag_title": "United States"
+}

@@ -1,0 +1,45 @@
+{
+	"reputation": {
+		"address": "213.133.100.100",
+		"as": "24940",
+		"threat_score": 2,
+		"counts": {
+			"Malicious Host": 1
+		},
+		"first_seen": "2015-09-28T13:41:09",
+		"city": "Unknown",
+		"allow_ping": "",
+		"reputation_rel_checked": 0,
+		"lon": "Unknown",
+		"state": -1,
+		"status": 1,
+		"activities": [
+			{
+				"status": 1,
+				"name": "Malicious Host",
+				"first_date": "2015-09-28T13:41:09",
+				"data": [
+				],
+				"source": "ciarmy",
+				"last_date": "2015-10-04T19:58:27",
+				"data_key": "213.133.100.100 hostile"
+			}
+		],
+		"server_type": "",
+		"organization": "Unknown",
+		"lat": "Unknown",
+		"date_added": {
+			"usec": 308000,
+			"sec": 1443447669
+		},
+		"country": "Unknown",
+		"up": 0,
+		"reputation_val": "2",
+		"reputation_rel": "3",
+		"reputation_val_checked": 0,
+		"_id": {
+			"$id": "5609437503b04d21f70590bc"
+		},
+		"last_seen": "2015-10-04T19:58:27"
+	}
+}

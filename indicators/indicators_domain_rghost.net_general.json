@@ -1,0 +1,222 @@
+{
+	"has_next": true,
+	"actual_size": 5108,
+	"url_list": [
+		{
+			"domain": "durus.tv",
+			"url": "https://durus.tv/video/ypgden-sondakika-catisma-goruntuleri",
+			"hostname": "durus.tv",
+			"httpcode": 404,
+			"gsb": [
+			],
+			"result": {
+				"urlworker": {
+					"ip": "8.8.8.8",
+					"http_code": 404
+				},
+				"safebrowsing": {
+					"matches": [
+					]
+				}
+			},
+			"date": "2018-03-04T20:58:13",
+			"encoded": "https%3A//durus.tv/video/ypgden-sondakika-catisma-goruntuleri"
+		},
+		{
+			"domain": "securedatas.download",
+			"url": "https://www.securedatas.download/",
+			"hostname": "www.securedatas.download",
+			"httpcode": 404,
+			"gsb": [
+				"generic",
+				"malware"
+			],
+			"result": {
+				"urlworker": {
+					"ip": "8.8.8.8",
+					"http_code": 404
+				},
+				"safebrowsing": {
+					"matches": [
+						"generic",
+						"malware"
+					]
+				}
+			},
+			"date": "2018-03-02T08:46:20",
+			"encoded": "https%3A//www.securedatas.download/"
+		},
+		{
+			"domain": "wz9735.com",
+			"url": "https://wz9735.com/De-Activation/De-Activation/English/open/index.php?email=dnsadmin@3cinteractive.com",
+			"hostname": "wz9735.com",
+			"httpcode": 404,
+			"gsb": [
+				"generic",
+				"malware"
+			],
+			"result": {
+				"urlworker": {
+					"ip": "8.8.8.8",
+					"http_code": 404
+				},
+				"safebrowsing": {
+					"matches": [
+						"generic",
+						"malware"
+					]
+				}
+			},
+			"date": "2018-01-09T01:43:26",
+			"encoded": "https%3A//wz9735.com/De-Activation/De-Activation/English/open/index.php%3Femail%3Ddnsadmin%403cinteractive.com"
+		},
+		{
+			"domain": "mizukipark-vn.com",
+			"url": "https://mizukipark-vn.com/wp-content/fabricuk.php?bGF6ZXJsZXNAaG90bWFpbC5jb20",
+			"hostname": "mizukipark-vn.com",
+			"httpcode": 404,
+			"gsb": [
+			],
+			"result": {
+				"urlworker": {
+					"ip": "8.8.8.8",
+					"http_code": 404
+				},
+				"safebrowsing": {
+					"matches": [
+					]
+				}
+			},
+			"date": "2017-12-28T03:44:12",
+			"encoded": "https%3A//mizukipark-vn.com/wp-content/fabricuk.php%3FbGF6ZXJsZXNAaG90bWFpbC5jb20"
+		},
+		{
+			"domain": "mizukipark-vn.com",
+			"url": "https://mizukipark-vn.com/wp-content/fabricuk.php?bGF6ZXJsZXNAaG90bWFpbC5jb20=",
+			"hostname": "mizukipark-vn.com",
+			"httpcode": 404,
+			"gsb": [
+			],
+			"result": {
+				"urlworker": {
+					"ip": "8.8.8.8",
+					"http_code": 404
+				},
+				"safebrowsing": {
+					"matches": [
+					]
+				}
+			},
+			"date": "2017-12-28T03:44:12",
+			"encoded": "https%3A//mizukipark-vn.com/wp-content/fabricuk.php%3FbGF6ZXJsZXNAaG90bWFpbC5jb20%3D"
+		},
+		{
+			"domain": "wz9735.com",
+			"url": "https://wz9735.com/",
+			"hostname": "wz9735.com",
+			"httpcode": 404,
+			"gsb": [
+				"generic",
+				"malware"
+			],
+			"result": {
+				"urlworker": {
+					"ip": "8.8.8.8",
+					"http_code": 404
+				},
+				"safebrowsing": {
+					"matches": [
+						"generic",
+						"malware"
+					]
+				}
+			},
+			"date": "2017-12-22T12:06:49",
+			"encoded": "https%3A//wz9735.com/"
+		},
+		{
+			"domain": "agilent.com",
+			"url": "https://guestlogin.agilent.com/login.html",
+			"hostname": "guestlogin.agilent.com",
+			"httpcode": 404,
+			"gsb": [
+			],
+			"result": {
+				"urlworker": {
+					"ip": "8.8.8.8",
+					"http_code": 404
+				},
+				"safebrowsing": {
+					"matches": [
+					]
+				}
+			},
+			"date": "2017-12-20T20:58:58",
+			"encoded": "https%3A//guestlogin.agilent.com/login.html"
+		},
+		{
+			"domain": "whatsappweb.com",
+			"url": "https://whatsappweb.com/",
+			"hostname": "whatsappweb.com",
+			"httpcode": 404,
+			"gsb": [
+			],
+			"result": {
+				"urlworker": {
+					"ip": "8.8.8.8",
+					"http_code": 404
+				},
+				"safebrowsing": {
+					"matches": [
+					]
+				}
+			},
+			"date": "2017-12-14T05:31:40",
+			"encoded": "https%3A//whatsappweb.com/"
+		},
+		{
+			"domain": "hashminer.store",
+			"url": "https://hashminer.store",
+			"hostname": "hashminer.store",
+			"httpcode": 404,
+			"gsb": [
+			],
+			"result": {
+				"urlworker": {
+					"ip": "8.8.8.8",
+					"http_code": 404
+				},
+				"safebrowsing": {
+					"matches": [
+					]
+				}
+			},
+			"date": "2017-09-25T20:42:41",
+			"encoded": "https%3A//hashminer.store"
+		},
+		{
+			"domain": "worcesterboilerspares.co.uk",
+			"url": "https://worcesterboilerspares.co.uk/product/87161203200-charging-link-assembly",
+			"hostname": "worcesterboilerspares.co.uk",
+			"httpcode": 404,
+			"gsb": [
+			],
+			"result": {
+				"urlworker": {
+					"ip": "8.8.8.8",
+					"http_code": 404
+				},
+				"safebrowsing": {
+					"matches": [
+					]
+				}
+			},
+			"date": "2017-09-14T01:58:16",
+			"encoded": "https%3A//worcesterboilerspares.co.uk/product/87161203200-charging-link-assembly"
+		}
+	],
+	"page_num": 1,
+	"limit": 10,
+	"full_size": 5108,
+	"paged": true
+}

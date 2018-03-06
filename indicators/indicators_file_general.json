@@ -1,0 +1,20 @@
+{
+	"indicator": "6c5360d41bd2b14b1565f5b18e5c203cf512e493",
+	"sections": [
+		"general",
+		"analysis"
+	],
+	"pulse_info": {
+		"count": 0,
+		"references": [
+		],
+		"pulses": [
+		]
+	},
+	"base_indicator": {
+	},
+	"validation": [
+	],
+	"type": "sha1",
+	"type_title": "FileHash-SHA1"
+}

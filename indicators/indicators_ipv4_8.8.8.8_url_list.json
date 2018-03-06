@@ -1,0 +1,31 @@
+{
+	"indicator": "rghost.net",
+	"alexa": "http://www.alexa.com/siteinfo/rghost.net",
+	"whois": "http://whois.domaintools.com/rghost.net",
+	"type": "domain",
+	"pulse_info": {
+		"count": 0,
+		"references": [
+		],
+		"pulses": [
+		]
+	},
+	"base_indicator": {
+	},
+	"validation": [
+		{
+			"source": "whitelist",
+			"message": "Whitelisted domain rghost.net",
+			"name": "Whitelisted domain"
+		}
+	],
+	"sections": [
+		"general",
+		"geo",
+		"url_list",
+		"passive_dns",
+		"malware",
+		"whois",
+		"http_scans"
+	]
+}

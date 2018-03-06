@@ -1,0 +1,36 @@
+{
+	"indicator": "mail.vspcord.com",
+	"alexa": "http://www.alexa.com/siteinfo/mail.vspcord.com",
+	"whois": "http://whois.domaintools.com/mail.vspcord.com",
+	"type_title": "Hostname",
+	"base_indicator": {
+		"indicator": "mail.vspcord.com",
+		"description": "",
+		"title": "",
+		"access_reason": "",
+		"access_type": "public",
+		"content": "",
+		"type": "hostname",
+		"id": 1446814
+	},
+	"pulse_info": {
+		"count": 1,
+		"references": [
+		],
+		"pulses": [
+		]
+	},
+	"domain": "vspcord.com",
+	"type": "hostname",
+	"validation": [
+	],
+	"sections": [
+		"general",
+		"geo",
+		"url_list",
+		"passive_dns",
+		"malware",
+		"whois",
+		"http_scans"
+	]
+}
